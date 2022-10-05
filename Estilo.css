@@ -1,0 +1,36 @@
+*{
+        font-family: 'Courier New', Courier, monospace;
+ }
+        img
+        {
+        border-radius: 20px;
+        opacity: 0.95;
+        border:none;
+        }
+        button
+        {
+        border:none;
+        }
+        form    
+        {
+        background-image: linear-gradient(to top,rgb(98, 223, 98),green);
+        }
+        body
+        {
+        text-align: center;
+        background-image: linear-gradient(rgb(98, 223, 98),green);
+        }
+                .correo
+                {
+                        text-align: center;
+                }
+                .dispositivo
+                {
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+                text-align: left;
+                padding: 0.5cm 0.5cm 0.5cm 0.8cm;
+                }
+                .circ
+                {
+                border:solid
+                }
